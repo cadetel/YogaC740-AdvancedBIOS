@@ -1,0 +1,37 @@
+05/05/2017
+12:29:58 (LOCAL)
+Running LdgStorage.NSH -- Dated 2015-06-18 Rev.1
+Starting Storage Test for SATA Storage ...
+LdgStorage.NSH:LDIAG Storage Test for SATA Storage Passed!! (RC = 0)
+05/05/2017
+12:30:07 (LOCAL)
+LdgStorage.NSH Completed.
+05/04/2017
+22:35:22 (LOCAL)
+Running LdgStorage.NSH -- Dated 2015-06-18 Rev.1
+Starting Storage Test for SATA Storage ...
+LdgStorage.NSH:LDIAG Storage Test for SATA Storage Passed!! (RC = 0)
+05/04/2017
+22:51:29 (LOCAL)
+LdgStorage.NSH Completed.
+05/04/2017
+22:54:33 (LOCAL)
+Running LdgMemory.NSH -- Dated 2015-02-22 Rev.2
+LdgMemory.NSH:LDIAG Memory Test Passed!! (RC = 0)
+05/04/2017
+23:01:19 (LOCAL)
+LdgMemory.NSH Completed.
+05/04/2017
+23:01:39 (LOCAL)
+Running LdgVideo.NSH -- Dated 2015-02-22 Rev.2
+LdgVideo.NSH:LDIAG Video Test Passed!! (RC = 0)
+05/04/2017
+23:02:13 (LOCAL)
+LdgVideo.NSH Completed.
+05/04/2017
+23:02:25 (LOCAL)
+Running LdgPlanar.NSH -- Dated 2015-06-18 Rev.0
+LdgPlanar.NSH:LDIAG Planar Test Passed!! (RC = 0)
+05/04/2017
+23:03:37 (LOCAL)
+LdgPlanar.NSH Completed.
