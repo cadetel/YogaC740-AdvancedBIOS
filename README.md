@@ -25,7 +25,7 @@ This time we are going into the `AUCN57WW` folder and copying `AUCN57WW.efi`,`EF
 Reboot your laptop and go into the boot menu (F12 or Fn+F12)
 Select `EFI USB Device` and click `Esc` when it loads. P.S: you only have 3 seconds to do this.
 Type `fs:0` and click enter.
-Now type `Startup.nsh` and click enter.
+Now type `SAUCN57WW.efi` and click enter.
 Wait for it to reboot back into windows.
 Restart into the BIOS (F2 or Fn+F12)
 Finally, you will see an `Advanced` tab where you can unlock CFG and DVMT and Disable/Enable more stuff.
